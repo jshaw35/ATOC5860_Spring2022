@@ -131,3 +131,4 @@ dmypy.json
 .DS_Store
 Homework/
 dask-worker-space/
+ApplicationLab3/HadISST_sst.nc
