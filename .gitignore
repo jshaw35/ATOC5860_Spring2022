@@ -132,3 +132,4 @@ dmypy.json
 Homework/
 dask-worker-space/
 ApplicationLab3/HadISST_sst.nc
+ApplicationLab5/CESM1_LENS_Coupled_Control.cvdp_data.401-2200.nc
